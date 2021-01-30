@@ -1,3 +1,5 @@
+<pre xml:lang="latex">\sqrt{2}</pre>
+
 # 目錄
 
 ## 四變數
