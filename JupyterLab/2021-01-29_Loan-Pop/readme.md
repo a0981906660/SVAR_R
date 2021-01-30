@@ -5,7 +5,7 @@
 * v4i1l2
 
 ```math
-$$
+$$`
 \left[
 \begin{array}{c}
 	\varepsilon_t^i\\
@@ -31,7 +31,7 @@ a_{41} &a_{42} &a_{43} &a_{44}\\
 	e_t^{sp}
 \end{array}
 \right]
-$$
+`$$
 ```
 
 * v4i1l4
