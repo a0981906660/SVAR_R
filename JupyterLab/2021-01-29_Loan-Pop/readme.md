@@ -4,6 +4,7 @@
 
 * v4i1l2
 
+```math
 $$
 \left[
 \begin{array}{c}
@@ -31,6 +32,7 @@ a_{41} &a_{42} &a_{43} &a_{44}\\
 \end{array}
 \right]
 $$
+```
 
 * v4i1l4
 
